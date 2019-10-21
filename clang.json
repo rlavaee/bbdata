@@ -2,10 +2,10 @@
   "children": [
   { "name": "Hot Functions",
     "children": [
-      {"name": "Hot BBs in Hot Functions", "value": 347330, "color"="red"},
-      {"name": "Cold BBs in Cold Functions", "value": 708759, "color"="pink"}
+      {"name": "Hot BBs in Hot Functions", "value": 347330, "color": "red"},
+      {"name": "Cold BBs in Cold Functions", "value": 708759, "color": "pink"}
     ]
   },
-  { "name": "Cold Functions", "value": 1848647, "color"="blue"}
+  { "name": "Cold Functions", "value": 1848647, "color": "blue"}
   ]
 }
