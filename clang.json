@@ -2,7 +2,7 @@
   "children": [
   { "name": "Hot Functions",
     "children": [
-      {"name": "Hot BBs in Hot Functions", "value": 347330}
+      {"name": "Hot BBs in Hot Functions", "value": 347330},
       {"name": "Cold BBs in Cold Functions", "value": 708759}
     ]
   },
